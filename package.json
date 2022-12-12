@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/paradox-nhihieu/node-docker-jenkins#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mocha": "^7.1.2",
     "supertest": "^4.0.2"
   }
